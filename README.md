@@ -19,18 +19,18 @@
 
 not lazy, just *energy efficient*.
 
-- 🧠 i solve problems in my sleep, then spend 3 days procrastinating the actual code
+- 🧠 currently locked in on python — everything else can wait
 - ⚡ write clean code in one burst, then vanish for a week — it's a whole lifestyle
-- 🎯 currently building models that overfit less than my excuses
-- 🌱 learning: LLMs, MLOps, and the art of looking busy in standup
-- 💬 hit me up about: python, ml pipelines, or convincing you deadlines are a social construct
+- 🎯 goal: go from "print('hello world')" to "actually employable"
+- 🌱 learning: python fundamentals now, ai/ml is the end boss i'm slowly walking toward
+- 💬 hit me up about: python, or convincing you deadlines are a social construct
 - 📫 email: sakshamshandilya91@gmail.com
 
 <br>
 
 ### 🎧 tech stack
 
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,jupyter,postgres,docker,git,aws)
+![Skills](https://skillicons.dev/icons?i=python,git)
 
 <br>
 
