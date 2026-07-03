@@ -41,26 +41,6 @@
 
 <br>
 
-### 🚀 featured projects
-<!--
-  IMPORTANT: replace "repo-one", "repo-two", "repo-three" below with your
-  actual repo names (case-sensitive, exactly as they appear in the GitHub URL).
-  Example: if your repo is github.com/SakshamShandilya01/weather-app
-  then repo_name should be "weather-app"
--->
-<div align="center">
-  <a href="github.com/SakshamShandilya01/Dev-Profile-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-one&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
-  </a>
-  <a href="github.com/SakshamShandilya01/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-two&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
-  </a>
-</div>
-<div align="center">
-  <a href="github.com/SakshamShandilya01/Python-Exercises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
-  </a>
-</div>
 
 <br>
 
