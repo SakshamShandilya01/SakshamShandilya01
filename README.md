@@ -35,8 +35,8 @@
 
 ### 📊 stats
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1783093819" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1783093819" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1" />
 </div>
 
 <br>
@@ -49,17 +49,12 @@
   then repo_name should be "weather-app"
 -->
 <div align="center">
-  <a href="https://github.com/SakshamShandilya01/repo-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-one&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
+  <a href="https://github.com/SakshamShandilya01/SakshamShandilya01/Dev-Profile-Analyzer
+">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=SakshamShandilya01/Dev-Profile-Analyzer
+&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
   </a>
-  <a href="https://github.com/SakshamShandilya01/repo-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-two&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/SakshamShandilya01/repo-three">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=repo-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D8&text_color=c9d1d9&icon_color=B983FF" />
-  </a>
+
 </div>
 
 <br>
