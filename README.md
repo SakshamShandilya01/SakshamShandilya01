@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Typing animation header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=hey%2C+it's+Saksham+%F0%9F%92%A4;i+build+cool+ai+stuff...+eventually;professional+procrastinator%2C+occasional+genius;01+coffee+%2B+99+vibes+%3D+code)](https://git.io/typing-svg)
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
 <br>
 
@@ -26,8 +24,8 @@
 
 ### 📊 stats
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SakshamShandilya01&hide_border=true&background=0D1117&ring=FF61D8&fire=B983FF&currStreakLabel=FF61D8&sideLabels=B983FF&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
