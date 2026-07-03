@@ -1,0 +1,32 @@
+name: refresh readme stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * *"   # also refresh once a day even if you don't push
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bust image cache with a fresh timestamp
+        run: |
+          TIMESTAMP=$(date +%s)
+          # Replaces the v=... value on every image URL in README.md,
+          # forcing GitHub's image proxy (Camo) to fetch fresh data
+          # instead of serving a stale cached image.
+          sed -i -E "s/v=[A-Za-z0-9]+/v=${TIMESTAMP}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh stats cache"
+          git push
