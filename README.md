@@ -1,7 +1,7 @@
 <div align="center">
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=hey%2C+it%27s+Saksham+%F0%9F%92%A4;i+build+cool+ai+stuff...+eventually;professional+procrastinator%2C+occasional+genius;01+coffee+%2B+99+vibes+%3D+code)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
+</div>
+
 <br>
 ### 🛋️ about me
 > not lazy, just energy efficient.
