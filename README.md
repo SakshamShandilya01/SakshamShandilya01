@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
-</div>
-
+<!-- Typing animation header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=hey%2C+it%27s+Saksham+%F0%9F%92%A4;i+build+cool+ai+stuff...+eventually;professional+procrastinator%2C+occasional+genius;01+coffee+%2B+99+vibes+%3D+code)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
 <br>
 ### 🛋️ about me
 > not lazy, just energy efficient.
@@ -12,9 +12,36 @@
 * 💬 hit me up about: python, or convincing you deadlines are a social construct
 * 📫 email: sakshamshandilya91@gmail.com
 <br>
+
 ### 🎯 what i'm looking for
 > Open to Python / AI-ML internships and entry-level roles — I ship real projects, not just tutorials. Scroll down to see what I've actually built. 👇
 <br>
+
+### 🚀 featured projects
+<div align="center">
+  <a href="https://github.com/SakshamShandilya01/REPLACE-WITH-YOUR-REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=REPLACE-WITH-YOUR-REPO-NAME&theme=radical&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&border_color=B983FF" />
+  </a>
+</div>
+
+<p align="center">
+  📊 <b>Developer Profile Analyzer CLI</b> — Python OOP tool that analyzes dev profiles | <i>completed</i>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=B983FF" />
+  <img src="https://img.shields.io/badge/-OOP-0D1117?style=flat-square&logo=codeium&logoColor=FF61D8" />
+</p>
+
+<!-- Add more project cards here as you finish them, same format:
+
+<div align="center">
+  <a href="https://github.com/SakshamShandilya01/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamShandilya01&repo=REPO-NAME-2&theme=radical&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&border_color=B983FF" />
+  </a>
+</div>
+-->
+<br>
+
 ### 🎧 tech stack
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,13 +49,15 @@
   </a>
 </p>
 <br>
+
 ### 📊 stats
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1783226312" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1783226312" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1783219795" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1783219795" />
 </div>
 <br>
 <br>
+
 ### 🐍 the one thing i keep consistent
 <div align="center">
   <picture>
@@ -38,6 +67,7 @@
   </picture>
 </div>
 <br>
+
 ### 🏆 flex zone
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Saksham_Shandilya?theme=dark&font=Karla&ext=heatmap" />
@@ -46,6 +76,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SakshamShandilya01&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 <br>
+
 ### 🔗 come talk to me instead of working
 <p align="center">
   <a href="https://www.linkedin.com/in/saksham-shandilya04/" target="_blank">
@@ -56,6 +87,3 @@
   <img src="https://komarev.com/ghpvc/?username=SakshamShandilya01&label=Profile+views&color=FF61D8&style=flat" />
 </div>
 </div>
-
-
-tell me something to add in the stat like my project repo how could i do it while making it look amazong
