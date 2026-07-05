@@ -22,7 +22,7 @@
 ### 🎧 tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,gmail,idea,java,linkedin,pycharm,vscode,webstorm,windows" />
   </a>
 </p>
 
