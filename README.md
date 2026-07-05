@@ -57,9 +57,7 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Saksham_Shandilya?theme=dark&font=Karla&ext=heatmap" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamShandilya01&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
-</div>
+
 
 <br>
 
