@@ -30,14 +30,14 @@
 
 ### 📊 stats
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1783256919" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1783256919" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1783306569" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1783306569" />
 </div>
 
 <div align="center">
   <!-- timezone added so streak/day boundaries match your local time instead of UTC -->
-  <!-- v=1783256919 is auto-replaced by the GitHub Action below on every push -->
-  <img src="https://streak-stats.demolab.com/?user=SakshamShandilya01&hide_border=true&background=0D1117&ring=FF61D8&fire=B983FF&currStreakLabel=FF61D8&sideLabels=B983FF&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&timezone=Asia%2FKolkata&v=1783256919" />
+  <!-- v=1783306569 is auto-replaced by the GitHub Action below on every push -->
+  <img src="https://streak-stats.demolab.com/?user=SakshamShandilya01&hide_border=true&background=0D1117&ring=FF61D8&fire=B983FF&currStreakLabel=FF61D8&sideLabels=B983FF&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&timezone=Asia%2FKolkata&v=1783306569" />
 </div>
 
 <br>
