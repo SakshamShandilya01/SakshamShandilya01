@@ -35,9 +35,7 @@
 </div>
 
 <div align="center">
-  <!-- timezone added so streak/day boundaries match your local time instead of UTC -->
-  <!-- v=1783306569 is auto-replaced by the GitHub Action below on every push -->
-  <img src="https://streak-stats.demolab.com/?user=SakshamShandilya01&hide_border=true&background=0D1117&ring=FF61D8&fire=B983FF&currStreakLabel=FF61D8&sideLabels=B983FF&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&timezone=Asia%2FKolkata&v=1783306569" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br>
