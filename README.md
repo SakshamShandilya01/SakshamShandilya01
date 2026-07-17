@@ -64,10 +64,7 @@
   <a href="https://www.linkedin.com/in/saksham-shandilya04/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+  <a href="mailto:sakshamshandilya91@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshamShandilya01&label=Profile+views&color=FF61D8&style=flat" />
-</div>
-
-</div>
