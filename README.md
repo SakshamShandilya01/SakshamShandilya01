@@ -5,9 +5,11 @@
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e5b3b0e3-6489-4bf2-9d0c-1c73e6b39c88.gif" width="380">
 
 </div>
+
 <br>
 
 ### 🛋️ about me
+
 > not lazy, just energy efficient.
 
 * 🧠 currently locked in on python — everything else can wait
@@ -20,15 +22,17 @@
 <br>
 
 ### 🎧 tech stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,linkedin," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,linkedin" />
   </a>
 </p>
 
 <br>
 
 ### 📊 stats
+
 <div align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1787187788" />
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1787187788" />
@@ -41,6 +45,7 @@
 <br>
 
 ### 🐍 the one thing i keep consistent
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshamShandilya01/SakshamShandilya01/output/github-contribution-grid-snake-dark.svg" />
@@ -52,14 +57,15 @@
 <br>
 
 ### 🏆 flex zone
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nova_x29?theme=dark&font=Karla&ext=heatmap" />
 </div>
 
-
 <br>
 
 ### 🔗 come talk to me instead of working
+
 <p align="center">
   <a href="https://www.linkedin.com/in/saksham-shandilya04/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
