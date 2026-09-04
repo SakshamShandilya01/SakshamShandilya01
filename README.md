@@ -33,10 +33,10 @@
 
 ### 📡 skill radar
 
-<p align="center"><i>day-of-week commit rhythm — when the "one burst" actually happens</i></p>
+<p align="center"><i>actual language mix, by bytes of code — not vibes</i></p>
 
 <div align="center">
-  <img src="./assets/insights/metrics-rhythm.svg" alt="Contribution rhythm radar" width="500" />
+  <img src="./assets/skill-radar.svg" alt="Skill radar — language breakdown" width="500" />
 </div>
 
 <br>
@@ -44,8 +44,8 @@
 ### 📊 stats
 
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1788546576" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1788546576" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=SakshamShandilya01&show_icons=true&hide_border=true&title_color=FF61D8&icon_color=B983FF&text_color=c9d1d9&bg_color=0D1117&v=1788490239" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshamShandilya01&layout=compact&hide_border=true&title_color=FF61D8&text_color=c9d1d9&bg_color=0D1117&v=1788490239" />
 </div>
 
 <div align="center">
