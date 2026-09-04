@@ -1,0 +1,36 @@
+name: Skill Radar
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests numpy matplotlib
+
+      - name: Generate skill radar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: assets/skill-radar.svg
+        run: python skill_radar.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/skill-radar.svg
+          git commit -m "chore: update skill radar" || echo "no changes"
+          git push
