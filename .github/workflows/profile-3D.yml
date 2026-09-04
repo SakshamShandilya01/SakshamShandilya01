@@ -23,4 +23,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated" || echo "no changes"
+          git pull --rebase origin main
           git push
