@@ -1,0 +1,21 @@
+name: Skill Radar
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: urmzd/github-insights@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          sections: rhythm
+          readme-path: none
+          output-dir: assets/insights
