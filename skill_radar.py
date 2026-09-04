@@ -40,7 +40,6 @@ def get_repos(username):
             break
         repos.extend(batch)
         page += 1
-    # skip forks — they inflate your language stats with someone else's code
     return [r for r in repos if not r.get("fork")]
 
 
@@ -68,14 +67,12 @@ def render_radar(totals, output_path):
         print("No language data found — skipping radar generation.")
         sys.exit(0)
 
-    # keep top N languages by bytes, normalize to 0-100
     top = sorted(totals.items(), key=lambda x: x[1], reverse=True)[:MAX_LANGUAGES]
     labels = [name for name, _ in top]
     values = [count for _, count in top]
     max_val = max(values)
     scaled = [v / max_val * 100 for v in values]
 
-    # close the loop for the polygon
     angles = np.linspace(0, 2 * np.pi, len(labels), endpoint=False).tolist()
     scaled += scaled[:1]
     angles += angles[:1]
@@ -83,8 +80,8 @@ def render_radar(totals, output_path):
     fig = plt.figure(figsize=(6, 6), facecolor="#0D1117")
     ax = fig.add_subplot(111, polar=True, facecolor="#0D1117")
 
-    ax.plot(angles, scaled, color="#FF61D8", linewidth=2)
-    ax.fill(angles, scaled, color="#B983FF", alpha=0.35)
+    ax.plot(angles, scaled, color="#39D353", linewidth=2)
+    ax.fill(angles, scaled, color="#39D353", alpha=0.35)
 
     ax.set_theta_offset(np.pi / 2)
     ax.set_theta_direction(-1)
@@ -96,7 +93,7 @@ def render_radar(totals, output_path):
 
     ax.set_title(
         f"{USERNAME} — language mix",
-        color="#FF61D8",
+        color="#39D353",
         fontsize=13,
         fontfamily="monospace",
         pad=20,
