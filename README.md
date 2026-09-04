@@ -31,6 +31,16 @@
 
 <br>
 
+### 📡 skill radar
+
+<p align="center"><i>day-of-week commit rhythm — when the "one burst" actually happens</i></p>
+
+<div align="center">
+  <img src="./assets/insights/metrics-rhythm.svg" alt="Contribution rhythm radar" width="500" />
+</div>
+
+<br>
+
 ### 📊 stats
 
 <div align="center">
@@ -52,6 +62,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshamShandilya01/SakshamShandilya01/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SakshamShandilya01/SakshamShandilya01/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+<br>
+
+### 🏙️ the same grid, but make it 3d
+
+<p align="center"><i>same commits, extra dimension — proof the bursts actually stack up</i></p>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="500" />
 </div>
 
 <br>
